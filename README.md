@@ -1,4 +1,11 @@
 ### Hi there 👋
+I am Wildan Hakim, welcome to my repository, where you can find all my projects throughout the years.
+
+- 🔭 I’m currently working on React and Vue projects
+- 🌱 I’m currently learning MERN Stack
+- 💬 Ask me anything about frontend development
+- 📫 How to reach me: wildanhakim98@gmail.com
+- ⚡ Fun fact: I like MCR :metal:
 
 <!--
 **wildanhkm/wildanhkm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
