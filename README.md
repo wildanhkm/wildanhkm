@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am Wildan Hakim, welcome to my repository, where you can find all my projects throughout the years.
+I am Wildan Hakim, welcome to my repository, where you can find all my projects throughout the year.
 
 - 🔭 I’m currently working on React and Vue projects
 - 🌱 I’m currently learning MERN Stack
