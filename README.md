@@ -7,6 +7,8 @@ I am Wildan Hakim, welcome to my repository, where you can find all my projects 
 - 📫 How to reach me: wildanhakim98@gmail.com
 - ⚡ Fun fact: I like MCR :metal:
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wildanhkm)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **wildanhkm/wildanhkm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
