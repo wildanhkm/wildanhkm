@@ -2,7 +2,7 @@
 I am Wildan Hakim, welcome to my repository, where you can find all my projects throughout the year.
 
 - 🔭 I’m currently working on React, Vue, and Nuxt projects
-- 🌱 I’m currently learning MERN Stack
+- 🌱 I’m currently learning MERN Stack and CICD
 - 💬 Ask me anything about frontend development
 - 📫 How to reach me: wildanhakim98@gmail.com
 - ⚡ Fun fact: I like MCR :metal:
